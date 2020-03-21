@@ -1,0 +1,63 @@
+body{
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+}
+
+div.a {
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+  }
+
+  div.flashes {
+    text-align: center;
+    color: aliceblue;
+  }
+
+  div.b {
+    text-align: center;
+    color: aliceblue;
+    font-size: x-large;
+  }
+  div.c {
+    text-align: center;
+    color: aliceblue;
+  }
+  input {
+    text-align: right;
+    border: 2px solid#615435; 
+    border-radius: 4px;
+    background-color: rgb(38, 46, 43);
+    color: white;
+    }
+.text{
+    top: 45%;
+    right: 16%;
+    width: 65%;
+    height: 30px;
+    position: absolute;
+    font-size: 17;
+    text-align: center;
+}
+
+#btn2{
+    top: 55%;
+    position: absolute;
+    right: 48%;
+    border-radius: 8px;
+}
+
+div.b {
+    text-align: center;
+    color: aliceblue;
+  }
+
+  div#result {
+    color: aqua;
+    font-size: medium;
+    text-align: center;
+    top: 380px;
+    /* bottom: 113px; */
+    position: absolute;
+    right: 39%;
+}
